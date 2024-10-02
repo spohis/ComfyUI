@@ -24,7 +24,7 @@ NODES=(
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
     "https://github.com/WASasquatch/was-node-suite-comfyui"
-    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    #"https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
 
 )
@@ -42,6 +42,9 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/130072?type=Model&format=PickleTensor&size=pruned&fp=fp16"
     #Dreamshaper
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #Dreamlike_phototreal2.0
+    "https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/resolve/main/dreamlike-photoreal-2.0.safetensors?download=true"
+    
 
 )
 
