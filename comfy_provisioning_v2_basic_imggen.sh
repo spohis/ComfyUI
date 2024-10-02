@@ -40,6 +40,8 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #relistic_vision_6B
     "https://civitai.com/api/download/models/130072?type=Model&format=PickleTensor&size=pruned&fp=fp16"
+    #Dreamshaper
+    "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 
 )
 
