@@ -44,6 +44,10 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #Dreamlike_phototreal2.0
     "https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/resolve/main/dreamlike-photoreal-2.0.safetensors?download=true"
+    #outfitToOutfit model
+    "https://civitai.com/models/191tfit-controlnet-outfit2outfit"
+    
+    
     
 
 )
